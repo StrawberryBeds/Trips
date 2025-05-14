@@ -38,6 +38,12 @@ android {
     buildFeatures {
         compose = true
     }
+//    composeOptions {
+//        kotlinCompilerExtensionVersion = "YOUR_COMPOSE_COMPILER_VERSION"
+//    }
+//    See https://android-developers.googleblog.com/2024/04/jetpack-compose-compiler-moving-to-kotlin-repository.html
+
+
 }
 
 dependencies {
@@ -60,4 +66,6 @@ dependencies {
 
     implementation(platform("com.google.firebase:firebase-bom:33.13.0"))
     implementation("com.google.firebase:firebase-analytics")
+
+    implementation ("org.osmdroid:osmdroid-android:6.1.14")
 }
