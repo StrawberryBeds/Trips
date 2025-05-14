@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59775228236",
+    "project_id": "trips-d4800",
+    "storage_bucket": "trips-d4800.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59775228236:android:3426f5152c522c033f17e9",
+        "android_client_info": {
+          "package_name": "com.samuelwood.trips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC93xDa1QTLhdxkWf4YaxZbyDwG6oF5DOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
