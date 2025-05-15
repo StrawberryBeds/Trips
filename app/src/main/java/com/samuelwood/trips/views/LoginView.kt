@@ -95,7 +95,8 @@ fun LoginView(
         }
     }
 }
-//
+
+
 //@Composable
 //fun SignUpView(onSignUpSuccess: () -> Unit,  onLoginClick: () -> Unit) {
 //    var email by remember { mutableStateOf("") }
@@ -171,7 +172,7 @@ fun LoginView(
 //        }
 //    }
 //}
-//
+
 //fun signUp(email: String, password: String, onSignUpSuccess: () -> Unit, onError: (String) -> Unit) {
 //    val db = FirebaseFirestore.getInstance()
 //    auth.createUserWithEmailAndPassword(email, password)
